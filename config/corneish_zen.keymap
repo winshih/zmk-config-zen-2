@@ -16,7 +16,7 @@
             compatible = "zmk,behavior-toggle-layer";
             label = "NEW_BEHAVIOR";
             #binding-cells = <1>;
-            toggle-mode = "on";
+            toggle-mode = "flip";
         };
     };
 
