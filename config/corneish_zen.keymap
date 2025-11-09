@@ -26,6 +26,7 @@
         caps {
             bindings = <&kp CAPS>;
             key-positions = <24 35>;
+            layers = <0>;
         };
     };
 
